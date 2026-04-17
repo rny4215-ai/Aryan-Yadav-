@@ -27,3 +27,9 @@
 
 ## 🚀 Goal
 To become a skilled software developer and build impactful projects.
+
+## 🚀 My Projects
+
+### 🔢 Calculator Website
+👉 https://rny4215-ai.github.io/calculator-website  
+Simple calculator built using HTML, CSS & JavaScript
