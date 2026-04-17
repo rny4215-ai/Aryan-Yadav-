@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (Add your link here)  
+- LinkedIn: linkedin.com/in/aryan-yadav-5b9564312 
 
 ---
 
